@@ -6,4 +6,4 @@
 Scaffold-DbContext "server=localhost;port=3306;user=root;password=YourPassword;database=Your database" MySQL.Data.EntityFrameworkCore -o Models
 
 
-Ссылка на видео: https://vk.com/im?peers=246428138&sel=462566129&z=video501544339_456239166%2Fd317f9e905c48db79c
+Ссылка на видео: https://drive.google.com/file/d/1Rx4D3wG9jO68lYyf-kKWY6z4F6EWvdjo/view?usp=sharing
